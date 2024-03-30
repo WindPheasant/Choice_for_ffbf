@@ -2,8 +2,8 @@
     'use strict';
 
     var file_num = 3;
-    var photo_row = 6;
-    var photo_col = 10;
+    var photo_row = 4;
+    var photo_col = 5;
     var photo_num = photo_row * photo_col;
     var gallery = $('#gallery');
     var photos = [];
